@@ -1,0 +1,6 @@
+{
+  "ava": {
+    "files": ["**/*"],
+    "nodeArguments": ["--require", "../helper/fix-subprocess.js"]
+  }
+}
