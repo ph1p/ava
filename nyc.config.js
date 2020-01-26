@@ -3,7 +3,7 @@
 module.exports = {
 	all: true,
 	exclude: [
-		'{coverage,media,test-d,test-tap}/**',
+		'{coverage,media,test,test-d,test-tap}/**',
 		'*.config.js'
 	],
 	reporter: [
